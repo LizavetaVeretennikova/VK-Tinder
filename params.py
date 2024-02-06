@@ -1,0 +1,1 @@
+TOKEN = 'vk1.a.wlMBdyHOuuGOglySecFKtBnAZ8YMeXauorjKwlsx0iNRBrNFJlnpT2xG3G2E3D3rf19jhB_cTpzp_JLtr3qO0rMGmpEfja5DMgHeKiz_Z6SnS6-ejMyGby9a5C-0HvU6sI_mpk_vADZ2x-cfUqHvycA1lpO-3YfBOtJXO5z2Aiu1sjm7A-B9ZBOxJEMDK9g9'
